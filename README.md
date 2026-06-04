@@ -60,7 +60,7 @@ IPV6是否开启查询：https://testipv6.com
 
 |名称|地址|类型|
 | ------------ | ------------ | ------------ |
-|[饭太硬](https://www.饭太硬.com/ "饭太硬")|http://www.饭太硬.com/tv|源|
+|[饭太硬](https://www.饭太硬.com/ "饭太硬")|http://fty.xxooo.cf/tv|源|
 |[liucn](https://raw.liucn.cc/box/ "liucn")|https://raw.liucn.cc/box/m.json|源|
 |王小二|https://9280.kstore.space/wex.json|源|
 |[qist](https://github.com/qist/tvbox)|https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json|源|
@@ -77,7 +77,7 @@ IPV6是否开启查询：https://testipv6.com
 
 点播源容易失效和遭人举报，建议关注原发布地址。付费源不可信，毕竟不是版权方。推荐饭太硬以及他主页推荐的源。这些点播源一般影视APP（OK/FM版）都能用。
 
-[OK猫开发(OK影视)TG](https://t.me/okdespace) [饭太硬TG](https://t.me/TVBoxxoo) [王小二TG](https://t.me/wangerxiaofangniuwa) [FM影视TG](https://t.me/fongmi_release) [肥羊TG](https://t.me/feiyangofficalchannel)
+~~[OK猫开发(OK影视)TG](https://t.me/okdespace)~~ ~~[饭太硬TG](https://t.me/TVBoxxoo)~~(微信小程序：神秘的哥哥们) [王小二TG](https://t.me/wangerxiaofangniuwa) [FM影视TG](https://t.me/fongmi_release) [肥羊TG](https://t.me/feiyangofficalchannel)
 
 ------------
 
